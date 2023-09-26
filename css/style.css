@@ -1766,13 +1766,13 @@ header .mobile-menu {
 /*================================================== */
 @media only screen and (min-with:1097px) and (max-width:1536px){
 	.home>div>div h1{
-		font-size:96px
+		font-size:96px !important;
 	}
 	.home>div>div h1>span{
-		overflow:visible;
+		overflow:visible !important;
 	}
 	.home>div>div h1>span{
-		line-height:105px;
+		line-height:105px !important;
 	}
 }
 
