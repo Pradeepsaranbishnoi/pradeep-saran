@@ -1764,6 +1764,17 @@ header .mobile-menu {
 
 /* [ RESPONSIVE ] */
 /*================================================== */
+@media (min-with:1097px) and (max-width:1536px){
+	.home>div>div h1{
+		font-size:96px
+	}
+	.home>div>div h1>span{
+		overflow:visible;
+	}
+	.home>div>div h1>span{
+		line-height:105px;
+	}
+}
 
 @media (min-width:1025px) {
 	body:not(.blog-page) {
