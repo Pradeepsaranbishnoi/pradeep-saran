@@ -1764,7 +1764,7 @@ header .mobile-menu {
 
 /* [ RESPONSIVE ] */
 /*================================================== */
-@media (min-with:1097px) and (max-width:1536px){
+@media only screen and (min-with:1097px) and (max-width:1536px){
 	.home>div>div h1{
 		font-size:96px
 	}
